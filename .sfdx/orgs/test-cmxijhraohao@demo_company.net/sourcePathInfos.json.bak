@@ -1269,14 +1269,14 @@
     [
         "C:\\Users\\kyle.handley\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\kyle.handley\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1506640368434,
+            "changeTime": 1506640368434,
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669",
             "isMetadataFile": false,
-            "size": 333,
-            "modifiedTime": 1506642108165,
-            "changeTime": 1506642108165,
-            "contentHash": "68dabc0fc91920a5fe56f273516cf46b74b2766d"
+            "state": "u"
         }
     ],
     [
@@ -1308,14 +1308,14 @@
     [
         "C:\\Users\\kyle.handley\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\kyle.handley\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 833,
             "modifiedTime": 1506642016473,
             "changeTime": 1506642016473,
-            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe"
         }
     ],
     [
